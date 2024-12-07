@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devesh Kumar</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devesh1808&label=Profile%20views&color=0e75b6&style=flat" alt="devesh1808" /> </p>
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working at **IBM**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ExpressJs**
 
-- 💬 Ask me about **C, C++, HTML, CSS, JavaScript, ReactJs**
+- 💬 Ask me about **C, C++, HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs**
 
 - 📫 How to reach me **devesh1808@gmail.com**
 
