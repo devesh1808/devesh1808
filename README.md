@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working at **IBM**
 
-- 🌱 I’m currently learning **ExpressJs**
+- 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **C, C++, HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs**
+- 💬 Ask me about **C, C++, HTML, CSS, JavaScript, ReactJs, NodeJs, ExpressJs, EJS, APIs, RESTful APIs**
 
 - 📫 How to reach me **devesh1808@gmail.com**
 
